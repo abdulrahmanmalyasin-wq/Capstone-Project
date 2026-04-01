@@ -72,6 +72,7 @@ Capstone project/
    - 01_cleaning.ipynb
    - 02_features.ipynb
    - 03_eda.ipynb
+   - 04_math.ipynb
 3. Outputs will be saved in data/cleaned/
 
 ---

@@ -78,4 +78,7 @@ Capstone project/
 ---
 
 ## Author
-Abdulrahman
+Abdulrahman Mohammed alyasin
+
+## Supervised by 
+Tuwaiq Academy
